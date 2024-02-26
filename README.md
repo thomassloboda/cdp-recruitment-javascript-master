@@ -1,5 +1,7 @@
 # Javascript developer test
 
+[![Coverage Status](https://coveralls.io/repos/github/thomassloboda/cdp-recruitment-javascript-master/badge.svg?branch=main)](https://coveralls.io/github/thomassloboda/cdp-recruitment-javascript-master?branch=main)
+
 ## Filter
 
 Your job is to write a command-line interface in Node.js.
