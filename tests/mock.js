@@ -13,12 +13,7 @@ const countriesWithAnimalsContainingRY = [
       },
       {
         name: "Jane",
-        animals: [
-          { name: "Xander White" },
-          { name: "Lydia Mitchell" },
-          { name: "Mitchell Towne" },
-          { name: "Chloe Miller" },
-        ],
+        animals: [{ name: "Xander White" }],
       },
     ],
   },
